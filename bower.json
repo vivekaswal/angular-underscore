@@ -1,0 +1,10 @@
+{
+  "name": "angular-underscore",
+  "description": "Use Underscore with AngularJS",
+  "main": "angular-underscore.js",
+  "authors": [
+    "Vivek Aswal"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
